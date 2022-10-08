@@ -1,6 +1,6 @@
 import 'https://ritamrao.github.io/style.css'
 
-import * as THREE from 'https://cdn.skypack.dev/three@0.132.2';
+import * as THREE from 'https://ritamrao.github.io/Three.js';
 
 import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls';
 
