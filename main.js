@@ -2,7 +2,7 @@ import 'https://ritamrao.github.io/style.css'
 
 import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/0.145.0/three.min.js';
 
-import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls';
+//import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls';
 
 const scene = new THREE.Scene();
 
