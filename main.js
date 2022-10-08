@@ -1,8 +1,5 @@
-import 'https://ritamrao.github.io/style.css'
-
-import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/0.145.0/three.min.js';
-
-
+import * as THREE from "https://cdn.skypack.dev/three@0.133.1/build/three.module";
+import { OrbitControls } from "https://cdn.skypack.dev/three@0.133.1/examples/jsm/controls/OrbitControls";
 
 const scene = new THREE.Scene();
 
